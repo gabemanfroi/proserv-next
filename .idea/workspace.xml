@@ -5,31 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36673224-3226-4f71-aee9-83af6a3db9d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/hero-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/hive-texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/services-section-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Sections/AboutUs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Sections/Contact/Contact.form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Sections/Contact/Contact.item.description.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Sections/Contact/Contact.item.icon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Sections/Contact/Contact.item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Sections/Contact/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Sections/Hero.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Sections/Services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ServiceContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zodSchema/contactForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Sections/AboutUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Sections/AboutUs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Sections/Contact/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Sections/Contact/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Sections/Services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Sections/Services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ServiceContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ServiceContainer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +94,7 @@
       <workItem from="1692101963518" duration="79000" />
       <workItem from="1692296339233" duration="82000" />
       <workItem from="1693134664668" duration="8828000" />
-      <workItem from="1693246569296" duration="7958000" />
+      <workItem from="1693246569296" duration="9803000" />
     </task>
     <servers />
   </component>
