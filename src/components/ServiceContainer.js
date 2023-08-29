@@ -3,7 +3,7 @@ import React from "react";
 export default function ServiceContainer({ title, description, icon }) {
   const IconComponent = icon;
   return (
-    <div className="bg-white text-black text-center flex flex-col gap-4 p-16 relative">
+    <div className="bg-white text-black text-center flex flex-col gap-4 p-8 relative">
       <div
         style={{
           height: "72px",

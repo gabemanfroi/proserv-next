@@ -1,10 +1,10 @@
 export default function AboutUs() {
   return (
     <section
-      className="h-screen max-h-[50vh] w-full"
+      className="lg:h-screen py-12 lg:max-h-[50vh] w-full"
       style={{ background: "url(hive-texture.png)" }}
     >
-      <div className="h-full w-full p-24 grid-cols-2 inline-grid">
+      <div className="h-full w-full md:p-32 p-8 lg:grid-cols-2 inline-grid">
         <div className="flex flex-col gap-4">
           <h2>Quem Somos</h2>
           <p className="font-normal" style={{ lineHeight: "1.5" }}>
