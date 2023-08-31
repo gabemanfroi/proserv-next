@@ -12,9 +12,8 @@ export default function ServiceContainer({ title, description, icon }) {
           left: "calc(50% - 32px)",
           borderRadius: "50%",
           border: "6px solid #fff",
-          background: "#3261ca",
         }}
-        className="absolute bg-green-300 flex justify-center items-center"
+        className="absolute bg-blue-900 flex justify-center items-center"
       >
         <IconComponent size={32} color="white" />
       </div>

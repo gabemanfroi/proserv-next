@@ -1,6 +1,7 @@
 export default function AboutUs() {
   return (
     <section
+      id="about-us"
       className="lg:h-screen py-12 lg:max-h-[50vh] w-full"
       style={{ background: "url(hive-texture.png)" }}
     >

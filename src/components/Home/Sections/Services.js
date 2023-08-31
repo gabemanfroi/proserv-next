@@ -6,6 +6,7 @@ import { MdMonitor } from "react-icons/md";
 export default function Services() {
   return (
     <section
+      id="services"
       className="w-full bg-blue-700"
       style={{
         background: "url(services-section-background.jpg)",
