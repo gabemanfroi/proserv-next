@@ -3,11 +3,14 @@ FROM node:18 as build
 
 WORKDIR /app
 
+ARG NEXT_PUBLIC_STRAPI_JWT
+
 COPY package*.json ./
 RUN npm install
 
 COPY . .
-RUN npm run build
+
+RUN NEXT_PUBLIC_STRAPI_JWT=${NEXT_PUBLIC_STRAPI_JWT}  npm run build
 
 # Use a smaller Nginx image to serve the static files
 FROM nginx:alpine
