@@ -7,8 +7,8 @@ export default function AboutUs() {
     >
       <div className="h-full w-full md:p-32 p-8 lg:grid-cols-2 inline-grid">
         <div className="flex flex-col gap-4">
-          <h2>Quem Somos</h2>
-          <p className="font-normal" style={{ lineHeight: "1.5" }}>
+          <h2 className="text-white text-4xl">Quem Somos</h2>
+          <p className="font-normal text-white" style={{ lineHeight: "1.5" }}>
             A Proserv & Solution Informática é uma empresa situada em Pato
             Branco com foco em Tecnologia da Informação. Contamos com
             profissionais altamente capacitados para atender os mais diversos

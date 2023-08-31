@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36673224-3226-4f71-aee9-83af6a3db9d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/jenkins.sh" afterDir="false" />
+    <list default="true" id="36673224-3226-4f71-aee9-83af6a3db9d9" name="Changes" comment=":art: fixing redundant classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Sections/AboutUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Sections/AboutUs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Sections/Contact/Contact.form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Sections/Contact/Contact.form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Sections/Contact/Contact.item.description.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Sections/Contact/Contact.item.description.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Sections/Contact/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Sections/Contact/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Sections/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Sections/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Sections/Services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Sections/Services.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,8 +127,25 @@
       <workItem from="1693134664668" duration="8828000" />
       <workItem from="1693246569296" duration="10349000" />
       <workItem from="1693320520355" duration="1455000" />
-      <workItem from="1693502179995" duration="4853000" />
+      <workItem from="1693502179995" duration="7243000" />
     </task>
+    <task id="LOCAL-00001" summary=":rocket: fixing deploy">
+      <option name="closed" value="true" />
+      <created>1693507996088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693507996088</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":art: fixing redundant classes">
+      <option name="closed" value="true" />
+      <created>1693509859360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693509859360</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,5 +173,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":rocket: fixing deploy" />
+    <MESSAGE value=":art: fixing redundant classes" />
+    <option name="LAST_COMMIT_MESSAGE" value=":art: fixing redundant classes" />
   </component>
 </project>

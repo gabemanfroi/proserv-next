@@ -49,10 +49,12 @@ export const Contact = () => {
     <section id="contact" className="w-full bg-blue-950 flex justify-center">
       <div className="h-full w-full lg:p-36 p-8 flex flex-col gap-24">
         <div>
-          <h2 className="text-center font-bold text-4xl uppercase mb-2">
+          <h2 className="text-center font-bold text-4xl uppercase mb-2 text-white">
             Contato
           </h2>
-          <h3 className="text-center">Entre em contato conosco agora mesmo!</h3>
+          <h3 className="text-center text-white">
+            Entre em contato conosco agora mesmo!
+          </h3>
         </div>
         <div className="lg:grid-cols-2 lg:inline-grid flex flex-col md:px-56 gap-8 justify-center lg:px-80">
           <CompanyInfo />

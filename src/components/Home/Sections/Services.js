@@ -16,10 +16,12 @@ export default function Services() {
     >
       <div className="h-full w-full p-16 lg:p-36 flex flex-col gap-24">
         <div>
-          <h2 className="text-center font-bold text-4xl uppercase mb-2">
+          <h2 className="text-center font-bold text-4xl uppercase mb-2 text-white">
             Serviços
           </h2>
-          <h3 className="text-center">Confira como podemos te ajudar</h3>
+          <h3 className="text-center text-white">
+            Confira como podemos te ajudar
+          </h3>
         </div>
         <div className="lg:grid-cols-3 lg:inline-grid lg:gap-8 md:px-36  flex flex-col gap-16">
           <ServiceContainer

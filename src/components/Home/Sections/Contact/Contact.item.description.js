@@ -1,3 +1,3 @@
 export const ContactItemDescription = ({ children }) => {
-  return <div className="text-sm">{children}</div>;
+  return <div className="text-sm text-white">{children}</div>;
 };
