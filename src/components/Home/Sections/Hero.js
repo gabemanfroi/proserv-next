@@ -2,7 +2,10 @@ import { HeroSectionContainer } from "@/components/Home/styles";
 
 export default function Hero() {
   return (
-    <HeroSectionContainer className="grid h-screen place-items-center">
+    <HeroSectionContainer
+      id="hero"
+      className="grid h-screen place-items-center"
+    >
       <div>
         <h1 className="text-5xl font-bold text-center uppercase">
           Proserv & Solution <br /> Informática
